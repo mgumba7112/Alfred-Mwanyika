@@ -1,8 +1,7 @@
-<!DOCTYPE html>
 <html lang="sw">
 <head>
   <meta charset="UTF-8">
-  <title>Amsha Uwezo – Vitabu</title>
+  <title>Amsha Uwezo Vitabu</title>
   <style>
     body { font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px; background:#fafafa; color:#333; }
     h1 { text-align: center; color: #2c3e50; }
@@ -17,7 +16,7 @@
   </style>
 </head>
 <body>
-  <h1>Amsha Uwezo – Vitabu</h1>
+  <h1>Amsha Uwezo Vitabu</h1>
 
   <div class="book">
     <img src="images/66.jpg" alt="Amshe Uwezo Wako Halisi">
